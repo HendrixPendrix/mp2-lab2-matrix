@@ -1,0 +1,12 @@
+﻿C:\C++\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (test_utmatrix.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  sample_matrix.cpp
+c:\users\эмиль\desktop\mp2-lab2-matrix\samples\sample_matrix.cpp(14): error C2065: TMatrix: необъявленный идентификатор
+c:\users\эмиль\desktop\mp2-lab2-matrix\samples\sample_matrix.cpp(14): error C2062: тип "int" не требуется
+c:\users\эмиль\desktop\mp2-lab2-matrix\samples\sample_matrix.cpp(23): error C2065: a: необъявленный идентификатор
+c:\users\эмиль\desktop\mp2-lab2-matrix\samples\sample_matrix.cpp(24): error C2065: b: необъявленный идентификатор
+c:\users\эмиль\desktop\mp2-lab2-matrix\samples\sample_matrix.cpp(26): error C2065: c: необъявленный идентификатор
+c:\users\эмиль\desktop\mp2-lab2-matrix\samples\sample_matrix.cpp(26): error C2065: a: необъявленный идентификатор
+c:\users\эмиль\desktop\mp2-lab2-matrix\samples\sample_matrix.cpp(26): error C2065: b: необъявленный идентификатор
+c:\users\эмиль\desktop\mp2-lab2-matrix\samples\sample_matrix.cpp(27): error C2065: a: необъявленный идентификатор
+c:\users\эмиль\desktop\mp2-lab2-matrix\samples\sample_matrix.cpp(28): error C2065: b: необъявленный идентификатор
+c:\users\эмиль\desktop\mp2-lab2-matrix\samples\sample_matrix.cpp(29): error C2065: c: необъявленный идентификатор
