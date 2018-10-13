@@ -31,7 +31,7 @@ TEST(TMatrix, copied_matrix_is_equal_to_source_one)
 	EXPECT_EQ(m, m1);
 }
 
-TEST(TMatrix, copied_matrix_has_its_own_memory)  //
+TEST(TMatrix, copied_matrix_has_its_own_memory)  
 {
 	TMatrix<int> m(5);
 	TMatrix<int> m1(m);
